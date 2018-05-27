@@ -1,6 +1,6 @@
 Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. All of the code is available under an MIT License.
 
-Each example has an associated blog post:
+Each example has an associated blog 
 
 Base64 Encoding
 http://www.nczonline.net/blog/2009/12/08/computer-science-in-javascript-base64-encoding/
